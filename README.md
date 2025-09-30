@@ -1,5 +1,5 @@
 # VHDL
-Kode i VHDL for utviklingskort DE-10, med FPGA Altera MAX 10M50DAF484C7G.
+Kode i VHDL for utviklingskort DE-10, med FPGA Altera MAX 10M50DAF484C7G. Koden for testbenkene er ikke skrevet av meg, men av faglærer i IELS3012.
 
 ## Assignments:
 
