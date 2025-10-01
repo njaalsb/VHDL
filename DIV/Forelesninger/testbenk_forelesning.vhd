@@ -3,10 +3,10 @@ use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
 
 -- Tom entitet
-entity something_tb.vhd is
-end endity something_tb.vhd;
+entity something_tb is
+end entity something_tb;
 
-architecture SimMod of something_tb.vhd is
+architecture SimMod of something_tb is
    constant c_ClkPer : time := 10 ns;      -- 50 MHz
       -- DUT signal
       clk	: in std_logic;
